@@ -1,3 +1,7 @@
+
+<img src="/web/imagen_1.png">|<img src="/web/imagen_2.png">|<img src="/web/imagen_3.png">|
+
+
 # SISTEMA DE PORTAL DE DESCARGAS SILKE
 Proyecto de software creado por:
 JeanPaul Ari Maldonado

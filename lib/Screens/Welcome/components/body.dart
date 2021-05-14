@@ -19,12 +19,12 @@ class Body extends StatelessWidget {
               "B I E N V E N I D O  A  [SILKE]",
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
-            SizedBox(height: size.height * 0.06),
+            SizedBox(height: size.height * 0.01),
             SvgPicture.asset(
               "assets/icons/space-babe.svg",
-              height: size.height * 0.57,
+              height: size.height * 0.47,
             ),
-            SizedBox(height: size.height * 0.06),
+            SizedBox(height: size.height * 0.01),
             RoundedButton(
               text: "ENTRAR",
               press: () {
