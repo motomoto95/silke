@@ -1,16 +1,18 @@
-# test_app_1
+# SISTEMA DE PORTAL DE DESCARGAS SILKE
+Proyecto de software creado por:
+JeanPaul Ari Maldonado
+Iris Rocio Curo Quispe
+Anthony Juan Miranda Yquira
+Christopher Juan Yquira Miranda
 
-A new Flutter project.
+## Acerca de Silke
 
-## Getting Started
+El objetivo del proyecto es la entrega del producto “Portal de descarga SILKE” en cumplimiento de los requisitos recolectados del cliente. En este repositorio se codifica el producto software y mediante las actividades de los miembros del equipo de desarrollo, se implementa las funcionalidades del sistema.
 
-This project is a starting point for a Flutter application.
+Para un mejor entendimiento de este proyecto, se extiende el plan de trabajo de Silke:
 
-A few resources to get you started if this is your first Flutter project:
+- [Plan de Trabajo](https://docs.google.com/document/d/1XPA4uGTaCWuIR_YsX8ixzCPg0VRnnlaS1ET6M4Bt6u0/edit?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proyecto codificado y construido mediante Flutter y el stack de Dart. Para mas detalle sobre Flutter y Dart se adjunta el siguente enlace:
+[online documentation](https://flutter.dev/docs).
