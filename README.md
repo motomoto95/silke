@@ -1,5 +1,5 @@
 
-<img src="/web/imagen_1.png">|<img src="/web/imagen_2.png">|<img src="/web/imagen_3.png">|
+<img src="https://github.com/motomoto95/silke/blob/JeanPaul/web/imagen_1.png">|<img src="https://github.com/motomoto95/silke/blob/JeanPaul/web/imagen_2.png">|<img src="https://github.com/motomoto95/silke/blob/JeanPaul/web/imagen_3.png">|
 
 
 # SISTEMA DE PORTAL DE DESCARGAS SILKE
